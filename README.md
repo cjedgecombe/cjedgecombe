@@ -31,7 +31,7 @@ I'm a Software Engineer who loves solving problems and creating/working on inter
 <p align="left"> <a href="https://www.github.com/cjedgecombe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cj-edgecombe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=salmon_berry)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=salmon_berry&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Badges
 
